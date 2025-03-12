@@ -1,7 +1,14 @@
-# RicePest18
-ricepest18
+# RicePest18 
+ricepest18 Dataset
 
 
+# Info
+The dataset consists of three parts containing eight categories of rice pests from [IP102](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.pdf) and eight categories collected by the [PaddlePaddle open data platform](https://aistudio.baidu.com/aistudio/datasetoverview), including 14 categories of rice pests collected in the field.
 
-链接: https://pan.baidu.com/s/18ZNA-5H-vCRcympnJ74JXg 提取码: 
---来自百度网盘超级会员v3的分享
+dataset link:https://pan.baidu.com/s/18ZNA-5H-vCRcympnJ74JXg
+pwd: rp18
+
+# Copyright
+The ricepest18 database is free to the academic community for research only.
+
+For other purpose, please contact Dr. Liu: liujianqi@ieee.org
