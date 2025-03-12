@@ -6,7 +6,8 @@ Check out the paper for specific details.
 
 # Info
 dataset link:https://pan.baidu.com/s/18ZNA-5H-vCRcympnJ74JXg
-pwd: 
+
+pwd:rp18 
 
 # Copyright
 The ricepest18 database is free to the academic community for research only.
