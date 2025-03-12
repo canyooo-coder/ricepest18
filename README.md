@@ -1,2 +1,2 @@
-# ricepest18
+# RicePest18
 ricepest18
